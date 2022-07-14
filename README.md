@@ -1,6 +1,7 @@
-# estrutura-de-dados
+# Estrutura-de-dados
 
 Estudo de estrutura de dados, aprendido na Linguagem C++.
+
 
 # Professor
 
